@@ -10,7 +10,8 @@ npm install @tradiverse/cli-lib
 
 ## Examples
 
-
+- [CLI](https://github.com/tradiverse/web)
+- [Web CLI](https://github.com/tradiverse/web-cli)
 
 
 ## How / What?

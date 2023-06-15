@@ -89,6 +89,8 @@ export class TradiverseCli {
                     }
 
                     const result = '\n\n'
+                        + 'TRADIVERSE CLI'
+                        + '\n\n'
                         + commandParent.description
                         + '\n\n'
                         + 'usage: ' + commandParent.usage
@@ -98,6 +100,8 @@ export class TradiverseCli {
                 }
 
                 const result = '\n\n'
+                    + 'TRADIVERSE CLI'
+                    + '\n\n'                
                     + commandHelp
                     + '\n\n'
                     + 'HELP - Show help for using this command'

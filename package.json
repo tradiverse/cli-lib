@@ -1,12 +1,12 @@
 {
   "name": "@tradiverse/cli-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "cli-lib.js",
   "type": "module",
   "scripts": {
   },
-  "author": "",
+  "author": "Lenny Urbanowski",
   "license": "ISC",
   "devDependencies": {
     "fs-extra": "^11.1.1"
